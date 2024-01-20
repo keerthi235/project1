@@ -1,0 +1,366 @@
+.inbox{
+    padding: 160px 0px;
+}
+.inbox1{
+    text-align: center;
+    padding: 200px 0px;
+}
+.sec1{
+    background-image: url(brisket.jpg);
+    background-size: cover;
+}
+.sec2{
+    background-image: url(image1.jpg);
+    background-size: cover;
+}
+h1.image{
+    color: white;
+    font-size: 100px;
+
+}
+p.text{
+    color: white;
+    font-weight: bold;
+}
+img.bufallo{
+    border: 3px solid white;
+    border-radius: 50%;
+    padding: 15px;
+}
+h1.riv{
+}
+
+p.more{
+    /* margin-top: 120px; */
+    font-size: x-large;
+}
+ 
+h1.style{
+    margin-top: 150px;
+    
+}
+p.text{
+    font-size: medium;
+}
+.inbox2{
+    /* background-color: aqua; */
+    height: 250px;
+    padding-top: 80px;
+}
+.line1{
+    background-color: orange;
+    height: 1px;
+    width: 50%;
+    margin-bottom: 20px;
+}
+
+.line2{
+    background-color: orange;
+    height: 1px;
+    width: 100%;
+    margin-bottom: 20px;
+
+}
+.inbox3{
+    /* background-color: antiquewhite; */
+    padding: 80px 0px;
+    text-align: center;
+    font-size:25px ;
+    font-weight: bold ;
+    color: white;
+
+}
+.inbox4{
+    /* background-color: aquamarine; */
+    height: 250px;
+    padding-top: 80px;
+
+}
+
+
+.line1{
+    background-color: orange;
+    height: 1px;
+    width: 50%;
+    margin-bottom: 20px;
+}
+
+.line2{
+    background-color: orange;
+    height: 1px;
+    width: 100%;
+    margin-bottom: 20px;
+
+}
+.inbox7{
+    /* background-color: aqua; */
+    /* height: 150px; */
+    padding-top: 80px;   
+}
+.inbox9{
+    /* background-color: aqua; */
+    height: 150px;
+    padding-top: 80px;   
+}
+
+.line1{
+    background-color: orange;
+    height: 1px;
+    width: 50%;
+    margin-bottom: 20px;
+}
+
+.line2{
+    background-color: orange;
+    height: 1px;
+    width: 100%;
+    margin-bottom: 20px;
+
+}
+
+
+.sec3{
+    text-align: center;
+    
+}
+.sec3{
+    background-image: url(jay-wennington-N_Y88TWmGwA-unsplash.jpg);
+    background-size: cover;
+ 
+    
+}
+.inbox5{
+    padding: 200px 0px;
+    font-size: xx-large;
+}
+.sec3{
+    background-image: url(jay-wennington-N_Y88TWmGwA-unsplash.jpg);
+    background-size: cover;
+    color: white;
+} 
+.sec4{
+    background-image:url(eiliv-aceron-ZuIDLSz3XLg-unsplash.jpg) ;
+    background-size: cover;
+    text-align: center;
+    padding: 200px 0px;
+    color: white;
+    
+}
+.sec5{
+    background-image: url(image2.webp);
+    background-size: cover;
+    background-position: center;
+}
+
+.inbox7{
+    /* background-color: aqua; */
+    height: 300px;
+}
+.inbox8{
+    /* background-color: aqua; */
+    min-height: 100px;
+    text-align: center;
+    padding: 100px 0px;
+    font-size: 25px;
+    font-weight: ;
+}
+.inbox9{
+    /* background-color: aqua; */
+    height: 300px;
+}
+.note{
+    font-weight: bold;
+}
+.sec6{
+    text-align: center;
+   
+}
+.sec10{
+    background-color:rgba(30, 30, 30, 0.722);
+    /* height: 400px; */
+
+}
+.inbox10{
+    padding:60px ;
+}
+.inbox12{
+    padding:60px ;
+
+}
+.inbox11{
+    padding:60px ;
+
+}
+
+.inbox13{
+    text-align: center;  
+    font-size: 80px;
+}
+.inbox14{
+    /* background-color: antiquewhite; */
+    
+    background-image: url(r.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+    background-size: cover;
+    text-align: center;
+}
+.trans{
+    background-color: rgba(0, 0, 0, 0.681);
+    min-height: 200px;
+}
+.inbox15{
+    /* background-color: antiquewhite; */
+    height: 200px;
+}
+
+.inbox16{
+    /* background-color: antiquewhite; */
+    height: 200px;
+}
+
+.inbox17{
+    /* background-color: antiquewhite; */
+    height: 200px;
+}
+.sec2{
+    background-image: url;
+    background-size: cover;
+}
+.black{
+    background-color: rgba(0, 0, 0, 0.379);
+}
+.white{
+    background-color: rgba(255, 255, 255, 0.335);
+}
+.sec6{
+    background-image:url(bottle.jpg);
+    background-size: cover; 
+    color: white;
+    text-align: center;
+}
+
+.line1{
+    background-color: orange;
+    height: 1px;
+    width: 50%;
+    margin-bottom: 20px;
+}
+
+.line2{
+    background-color: orange;
+    height: 1px;
+    width: 100%;
+    margin-bottom: 20px;
+ 
+}
+.sec7{
+    background-image:url(image7.jpg);
+    background-size: cover;
+    /* height: 600px; */
+    text-align: center;
+    color: white;
+}
+.sec8{
+    background-image:url(image5.jpg);
+    background-size: cover; 
+    background-position: center; 
+    /* height: 300px; */
+    text-align: center;
+    color: white;
+
+
+}
+.orange{
+    background-color: rgba(255, 166, 0, 0.452);
+    /* height: 300px; */
+}
+.sec9{
+    background-image:url(image6.jpg);
+    background-size: cover; 
+    height: 600px;
+    color: white;
+   
+
+}
+.sec10{
+    background-color: #1f1f1f;
+    padding-top: 50px;
+}
+
+.text{
+    color: grey;
+}
+.bi1{
+    color: orange;
+    font-weight: bold;
+}
+
+
+
+.line3{
+    background-color: white;
+    width: 350px;
+    margin: auto;
+    height: 3px;
+    
+}
+.line4{
+    background-color: white;
+    width: 300px;
+    margin: auto;
+    height: 3px;   
+}
+.line5{
+    background-color: white;
+    width: 400px;
+    margin: auto;
+    height: 3px;   
+}
+.sec11{
+    text-align: right;
+    background-color: black;
+}
+.inbox18{
+    background-color: black;
+  text-align: center;
+    height: 100px;
+    margin-top: 30px;
+}
+.inbox19{       
+     background-color: black;
+    height: 100px;
+    color: white;
+    text-align: center;
+    margin-top: 30px;
+}
+.inbox20{
+    font-size: 80px;
+}
+.retail{
+    margin-top: 30px;
+}
+img.knife{
+    border: 3px solid white;
+    border-radius: 50%;
+    padding: 15px;
+}
+.color{
+   
+}
+  
+@media(max-width:575px){
+    .inbox8{
+        padding: 0px 0px;
+        text-align: center;
+    }
+
+}
+
+section{
+	overflow:hidden;
+}
+.text1{
+    overflow:hidden;
+}
